@@ -259,3 +259,14 @@ footer p{
     margin:5px;
 }
 
+a:visited {
+  color: slateblue;
+}
+
+a:hover {
+  color: lightcoral;
+}
+
+a:active {
+  color: paleturquoise;
+}
