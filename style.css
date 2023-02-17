@@ -190,7 +190,7 @@ ol li a{
 .education{
     padding:40px 0;
     background: linear-gradient(rgba(141, 153, 174, 0.9), rgba(141, 153, 174, 0.8)),  /*渐变效果*/
-    url(./assets/shian1.jpg) no-repeat fixed;   /*没有fix的话，鼠标移动图片不会跟着移动*/
+    url(./assets/shian4.png) no-repeat fixed;   /*没有fix的话，鼠标移动图片不会跟着移动*/
     background-size: cover;
 }
 
